@@ -1,0 +1,36 @@
+<!DOCTYPE html>
+<html>
+  <head>
+    <meta http-equiv="content-type" content="text/html; charset=utf-8" />
+    <title>Exemplo de dialog</title>
+    <style type="text/css" media="screen">
+      .dialog {
+        background-color: yellow;
+        padding: 5px;
+        box-shadow: 3px 3px #ccc;
+        width: 200px;
+        border-radius: 2px;
+        opacity: 0;
+        transform: scale(0) translate(-100px);
+        transition: all linear 0.3s;
+      }
+      .dialog.show {
+        opacity: 1;
+        transform: scale(1) translate(0px);
+      }
+    </style>
+  </head>
+  <body>
+    <h1>Exemplo de dialog</h1>
+    <button>ativar dialog</button>
+    <div class="dialog">mensagem dentro da caixinha</div>
+    <script type="text/javascript" charset="utf-8">
+      var button = document.querySelector("button"),
+        dialog = document.querySelector(".dialog");
+      button.addEventListener("click", function() {
+        if (dialog.className === "dialog show") dialog.className = "dialog";
+        else dialog.className = "dialog show";
+      });
+    </script>
+  </body>
+</html>
