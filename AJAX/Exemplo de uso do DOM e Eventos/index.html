@@ -1,0 +1,26 @@
+<!DOCTYPE html>
+<html>
+  <head>
+    <meta http-equiv="content-type" content="text/html; charset=utf-8" />
+    <title>Introdução ao JavaScript</title>
+  </head>
+
+  <body>
+    <h1>Introdução ao JavaScript</h1>
+    <input type="text" />
+    <ul></ul>
+    <script type="text/javascript" charset="utf-8">
+      var lista = document.querySelector("ul"),
+        input = document.querySelector("input");
+      input.addEventListener("keyup", function() {
+        var palavra = input.value;
+        lista.innerHTML = "";
+        for (var i = 0; i < 5; i++) {
+          var li = document.createElement("li");
+          li.innerHTML = palavra + i;
+          lista.appendChild(li);
+        }
+      });
+    </script>
+  </body>
+</html>
