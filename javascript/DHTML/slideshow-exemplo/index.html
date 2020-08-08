@@ -1,0 +1,35 @@
+<!DOCTYPE html>
+<html>
+  <head>
+    <meta http-equiv="content-type" content="text/html; charset=utf-8" />
+    <title>Exemplo de slideshow</title>
+  </head>
+  <body>
+    <div class="slideshow">
+      <img
+        src="windowsmaclinux.png"
+        alt="sistemas operacionais: windows, mac e linux"
+      />
+    </div>
+    <style>
+      .slideshow {
+        height: 300px;
+        width: 250px;
+        overflow: hidden;
+      }
+
+      .slideshow img {
+        transition: all linear 0.3s;
+        transform: translate(0px);
+      }
+    </style>
+    <script type="text/javascript" charset="utf-8">
+      var i = 0,
+        img = document.querySelector(".slideshow img");
+      setInterval(function () {
+        i = (i + 1) % 3;
+        img.style.transform = "translateX(-" + 250 * i + "px";
+      }, 5000);
+    </script>
+  </body>
+</html>

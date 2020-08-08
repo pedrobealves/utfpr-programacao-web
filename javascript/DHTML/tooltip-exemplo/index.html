@@ -1,0 +1,44 @@
+<!DOCTYPE html>
+<html>
+  <head>
+    <meta http-equiv="content-type" content="text/html; charset=utf-8" />
+    <title>Exemplo de tooltip</title>
+    <style>
+      .tooltip {
+        display: inline-block;
+        position: absolute;
+        width: 120px;
+        background-color: #fff;
+        text-align: center;
+        border-radius: 6px;
+        padding: 5px 0;
+        box-shadow: 2px 2px #888888;
+      }
+    </style>
+  </head>
+  <body>
+    <p>
+      <a href="#" class="tooltip_holder">Lorem ipsum</a> dolor sit, amet
+      consectetur adipisicing elit. Nostrum magni quaerat ab soluta odio omnis
+      fugit iste commodi earum, similique voluptates unde rerum ad amet quidem
+      et eius iusto! Non.
+    </p>
+    <script type="text/javascript" charset="utf-8">
+      document
+        .querySelector(".tooltip_holder")
+        .addEventListener("mouseover", function () {
+          if (this.querySelector(".tooltip")) return;
+          var div = document.createElement("div"),
+            texto = this.innerHTML;
+          div.className = "tooltip";
+          div.innerHTML = texto;
+          this.appendChild(div);
+        });
+      document
+        .querySelector(".tooltip_holder")
+        .addEventListener("mouseout", function () {
+          this.removeChild(this.querySelector(".tooltip"));
+        });
+    </script>
+  </body>
+</html>
