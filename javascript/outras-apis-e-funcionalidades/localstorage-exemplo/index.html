@@ -1,0 +1,21 @@
+<!DOCTYPE html>
+<html>
+  <head>
+    <meta http-equiv="content-type" content="text/html; charset=utf-8" />
+    <title>Exemplo de Localstorage</title>
+  </head>
+  <body>
+   <h1></h1>
+    <script type="text/javascript" charset="utf-8">
+      let h1 = document.querySelector('h1'),
+      counter = localStorage.getItem('counter');
+      if(counter) {
+        counter++;
+      } else {
+        counter = 1;
+      }
+      localStorage.setItem('counter', counter);
+      h1.innerHTML = `Visita ${counter}`;
+    </script>
+  </body>
+</html>

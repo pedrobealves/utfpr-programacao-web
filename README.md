@@ -16,3 +16,4 @@ Códigos dos conteúdos passados em vídeo pelo Prof. Willian Massami Watanabe
 | https://bit.ly/39Wp98e                                  | Exemplo de procura de cidade               |
 | https://bit.ly/3ihnoWg                                  | Exemplo de tooltip                         |
 | https://bit.ly/2XHAtAt                                  | Exemplo de slideshow                         |
+| https://bit.ly/30Lwuoi                                | Exemplo de localstorage                         |
