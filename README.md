@@ -18,3 +18,4 @@ Códigos dos conteúdos passados em vídeo pelo Prof. Willian Massami Watanabe
 | https://bit.ly/2XHAtAt                                  | Exemplo de slideshow                         |
 | https://bit.ly/30Lwuoi                                | Exemplo de localstorage                         |
 | https://bit.ly/30JPWlb                                  | Exemplo de AJAX com um arquivo de Texto            |
+| https://bit.ly/3fW9lUu                                  | Exemplo do uso do XMLHttpRequest com a API JSON da Wikipedia            |
