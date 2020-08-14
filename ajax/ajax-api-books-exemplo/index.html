@@ -1,0 +1,35 @@
+<!DOCTYPE html>
+<html>
+  <head>
+    <meta http-equiv="content-type" content="text/html; charset=utf-8" />
+    <title>Index</title>
+    <script src="https://cdn.jsdelivr.net/npm/axios/dist/axios.min.js"></script>
+  </head>
+  <body>
+    <h1>Exemplo Axios com Open Library API</h1>
+    <input type="text" name="busca" value="" />
+    <button>Buscar</button>
+    <ul></ul>
+    <script type="text/javascript" charset="utf-8">
+      var container = document.querySelector("ul");
+      document.querySelector("button").addEventListener("click", function () {
+        var query = document.querySelector("input").value;
+        axios
+          .get("https://openlibrary.org/search.json?q=" + query)
+          .then(function (res) {
+            var docs = res.data.docs;
+            for (var i = 0; i < docs.length && i < 10; i++) {
+              var li = document.createElement("li"),
+                img = document.createElement("img"),
+                cover_id = docs[i].cover_edition_key;
+              li.innerHTML = docs[i].title_suggest;
+              img.src =
+                "https://covers.openlibrary.org/b/olid/" + cover_id + ".jpg";
+              li.appendChild(img);
+              container.appendChild(li);
+            }
+          });
+      });
+    </script>
+  </body>
+</html>
