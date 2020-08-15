@@ -1,0 +1,33 @@
+<!DOCTYPE html>
+<html>
+  <head>
+    <meta http-equiv="content-type" content="text/html; charset=utf-8" />
+    <title>AJAX - Callbacks, Promise e ASYNC/AWAIT</title>
+    <script src="https://cdn.jsdelivr.net/npm/axios/dist/axios.min.js"></script>
+  </head>
+  <body>
+    <h1>AJAX - Callbacks, Promise e ASYNC/AWAIT</h1>
+    <input type="text" name="cep" value="" /><button>Buscar...</button>
+    <div class="endereco">
+      <p><span> Logradouro: </span><span class="logradouro"></span></p>
+      <p><span> Cidade: </span><span class="cidade"></span></p>
+      <p><span> Estado: </span><span class="estado"></span></p>
+    </div>
+
+    <script type="text/javascript" charset="utf-8">
+      let input = document.querySelector("input"),
+        busca = document.querySelector("button"),
+        logradouro = document.querySelector(".logradouro"),
+        cidade = document.querySelector(".cidade"),
+        estado = document.querySelector(".estado");
+      busca.addEventListener("click", async () => {
+        let json = await axios.get(
+          "https://viacep.com.br/ws/" + input.value + "/json/"
+        );
+        logradouro.innerHTML = json.data.logradouro;
+        cidade.innerHTML = json.data.localidade;
+        estado.innerHTML = json.data.uf;
+      });
+    </script>
+  </body>
+</html>
