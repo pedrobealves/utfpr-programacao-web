@@ -1,12 +1,13 @@
 # utfpr-programacao-web
 
-### Monitoria
+## Monitoria
 
 Dúvidas podem ser mandadas ao email pedrobealves@gmail.com
 e atendimento direto de segunda a quinta das 18h às 22h pela sala do google meet https://meet.google.com/kja-qikx-oue
 
+## Exemplos
 
-Códigos dos conteúdos passados em vídeo pelo Prof. Willian Massami Watanabe
+>Códigos dos conteúdos passados em vídeo pelo Prof. Willian Massami Watanabe
 
 
 | Link (editor de código online)                          | Descrição                                                     |
