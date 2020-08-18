@@ -1,0 +1,13 @@
+.message {
+  text-align: center;
+}
+
+.message div {
+  display: none;
+  background-color: yellow;
+  padding: 10px;
+}
+
+.message .appear {
+  display: block;
+}
