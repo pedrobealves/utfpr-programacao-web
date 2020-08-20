@@ -8,8 +8,8 @@
 
 ## Monitoria
 
-Dúvidas podem ser mandadas ao email pedrobealves@gmail.com
-e atendimento direto de segunda a quinta das 18h às 22h pela sala do google meet https://meet.google.com/kja-qikx-oue
+Dúvidas podem ser mandadas por whatsapp (43)99182-7934 ou ao email pedrobealves@gmail.com
+e atendimento remoto de segunda a quinta das 18h às 22h pela sala do google meet https://meet.google.com/kja-qikx-oue
 
 ## Exemplos
 
@@ -29,10 +29,10 @@ e atendimento direto de segunda a quinta das 18h às 22h pela sala do google mee
 | https://bit.ly/30SX2Uz                                  | Exemplo de AJAX com conexão com a API Open Books              |
 | https://bit.ly/3h1JX0X                                  | Callbacks, Promises e async/await                             |
 | https://bit.ly/2YbyTHf                                  | Introdução React                                              |
-| https://bit.ly/3l3KdPi                                  | Primeira aplicação                                            |
+| https://bit.ly/3l3KdPi                                  | Primeira aplicação em React                                   |
 
 <div align="right">
-    <b><a href="#monitoria">↥ Voltar ao Topo</a></b>
+    <b><a href="#índice">↥ Voltar ao Topo</a></b>
 </div>
 
 ## Material complementar
