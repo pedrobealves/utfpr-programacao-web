@@ -30,6 +30,7 @@ e atendimento remoto de segunda a quinta das 18h às 22h pela sala do google mee
 | https://bit.ly/3h1JX0X                                  | Callbacks, Promises e async/await                             |
 | https://bit.ly/2YbyTHf                                  | Introdução React                                              |
 | https://bit.ly/3l3KdPi                                  | Primeira aplicação em React                                   |
+| https://bit.ly/3l9hZTB                                  | Script create-react-app                                       |
 
 <div align="right">
     <b><a href="#índice">↥ Voltar ao Topo</a></b>
