@@ -1,10 +1,13 @@
 # utfpr-programacao-web
 
+Repositório com exemplos, materiais e atividades relacionados à monitoria da disciplina de Programação Web
+
 ## Índice
 
 - [Monitoria](#monitoria)
 - [Exemplos](#exemplos)
 - [Material complementar](#material-complementar)
+- [Atividades](#atividades)
 
 ## Monitoria
 
@@ -38,7 +41,7 @@ e atendimento remoto de segunda a quinta das 18h às 22h pela sala do google mee
 
 ## Material complementar
 
->Materiais para auxilio no desenvolvimento das atividades propostas
+>Materiais para auxilio no desenvolvimento das atividades propostas.
 
 * **[Git e Github](#git)**
    * [Material de estudo](#git)
@@ -69,5 +72,8 @@ No ambiente de desenvolvimento, é disponibilizar para uso. Um exemplo é um web
 |---------------------------------------------------------|----------------------------------------------------------------------- |
 | [Github Pages](https://pages.github.com/)               | Hospedagem gratuita para sites estáticos                               |
 | [Heroku](https://www.heroku.com/)                       | Permite hospedagem de sites dinámicos com suporte a várias tecnologias |
+
+##  Atividades
+> Atividades teóricas e/ou práticas para aplicação e desenvolvimento do aprendizado ao longo da disciplina.
 
 
