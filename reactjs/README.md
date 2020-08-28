@@ -6,3 +6,4 @@
 | https://bit.ly/3l3KdPi                                  | Primeira aplicação                                            |
 | https://bit.ly/3l9hZTB                                  | Script create-react-app                                       |
 | https://bit.ly/3aTH8wQ                                  | Propriedades                                                  |
+| https://bit.ly/31ERIF3                                  | States                                                        |
