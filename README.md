@@ -45,24 +45,14 @@ e atendimento remoto de segunda a quinta das 18h às 22h pela sala do google mee
 
 >Materiais para auxilio no desenvolvimento das atividades propostas.
 
-* **[Livros](#livros)**
-   * [Recomendações de livros](#)
 * **[Git e Github](#git)**
    * [Material de estudo](#git)
 * **[Deploy](#deploy)**
     * [O que é deploy?](#)
     * [Onde posso fazer deploy?](#)
     * [Como fazer deploy](#)
-    
-### Livros
-
-* Recomendações de livros
-  * [The Mythical Man-Month: Essays on Software Engineering](https://www.amazon.com/Mythical-Man-Month-Software-Engineering-Anniversary/dp/0201835959) by Frederick P. Brooks Jr.
-  * [Clean Code: A Handbook of Agile Software Craftsmanship](https://www.amazon.com/Clean-Code-Handbook-Software-Craftsmanship/dp/0132350882/) by Robert C. Martin 
-  * [Clean Architecture: A Craftsman's Guide to Software Structure and Design: A Craftsman's Guide to Software Structure and Design](https://www.amazon.com/Clean-Architecture-Craftsmans-Software-Structure/dp/0134494164/) by Robert C. Martin
-  * [The Pragmatic Pro: grammer: From Journeyman to Master](https://www.amazon.com/Pragmatic-Programmer-Journeyman-Master/dp/020161622X/) by Andrew Hunt, David Thomas
-  * [Introduction to Algorithms](https://www.amazon.com.br/Introduction-Algorithms-English-Thomas-Cormen-ebook/dp/B08FH8N996/) by por Thomas H. Cormen, Charles E. Leiserson, Ronald L. Rivest, Clifford Stein
-  * [Refactoring: Improving the Design of Existing Code](https://www.amazon.com/Refactoring-Improving-Existing-Addison-Wesley-Signature/dp/0134757599/) by Martin Fowler
+* **[Livros](#livros)**
+   * [Recomendações de livros](#)
 
 ### Git
 
@@ -85,6 +75,16 @@ No ambiente de desenvolvimento, é disponibilizar para uso. Um exemplo é um web
 |---------------------------------------------------------|----------------------------------------------------------------------- |
 | [Github Pages](https://pages.github.com/)               | Hospedagem gratuita para sites estáticos                               |
 | [Heroku](https://www.heroku.com/)                       | Permite hospedagem de sites dinámicos com suporte a várias tecnologias |
+
+### Livros
+
+* Recomendações de livros
+  * [The Mythical Man-Month: Essays on Software Engineering](https://www.amazon.com/Mythical-Man-Month-Software-Engineering-Anniversary/dp/0201835959) by Frederick P. Brooks Jr.
+  * [Clean Code: A Handbook of Agile Software Craftsmanship](https://www.amazon.com/Clean-Code-Handbook-Software-Craftsmanship/dp/0132350882/) by Robert C. Martin 
+  * [Clean Architecture: A Craftsman's Guide to Software Structure and Design: A Craftsman's Guide to Software Structure and Design](https://www.amazon.com/Clean-Architecture-Craftsmans-Software-Structure/dp/0134494164/) by Robert C. Martin
+  * [The Pragmatic Pro: grammer: From Journeyman to Master](https://www.amazon.com/Pragmatic-Programmer-Journeyman-Master/dp/020161622X/) by Andrew Hunt, David Thomas
+  * [Introduction to Algorithms](https://www.amazon.com.br/Introduction-Algorithms-English-Thomas-Cormen-ebook/dp/B08FH8N996/) by por Thomas H. Cormen, Charles E. Leiserson, Ronald L. Rivest, Clifford Stein
+  * [Refactoring: Improving the Design of Existing Code](https://www.amazon.com/Refactoring-Improving-Existing-Addison-Wesley-Signature/dp/0134757599/) by Martin Fowler
 
 ##  Atividades
 > Atividades teóricas e/ou práticas para aplicação e desenvolvimento do aprendizado ao longo da disciplina.
