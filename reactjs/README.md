@@ -11,3 +11,4 @@
 | https://bit.ly/3gFw5Zf                                  | Comunicação entre Componentes                                 |
 | https://bit.ly/2YKYerB                                  | Exemplo de uso de Hooks e Componentes com funções             |
 | https://bit.ly/3balCnC                                  | Exemplo de componentes com funções e Hooks                    |
+| https://bit.ly/3jw9ekD                                  | AJAX e hook useEffect em React                                |
