@@ -37,6 +37,7 @@ e atendimento remoto de segunda a quinta das 18h às 22h pela sala do google mee
 | https://bit.ly/3aTH8wQ                                  | Propriedades em React                                         |
 | https://bit.ly/31ERIF3                                  | States em React                                               |
 | https://bit.ly/31JDWku                                  | Considerações sobre o uso de States em React                  |
+| https://bit.ly/3gFw5Zf                                  | Comunicação entre Componentes em React                        |
 
 <div align="right">
     <b><a href="#índice">↥ Voltar ao Topo</a></b>
