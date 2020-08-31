@@ -7,3 +7,4 @@
 | https://bit.ly/3l9hZTB                                  | Script create-react-app                                       |
 | https://bit.ly/3aTH8wQ                                  | Propriedades                                                  |
 | https://bit.ly/31ERIF3                                  | States                                                        |
+| https://bit.ly/31JDWku                                  | Considerações sobre o uso de States                           |
