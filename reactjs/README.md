@@ -10,3 +10,4 @@
 | https://bit.ly/31JDWku                                  | Considerações sobre o uso de States                           |
 | https://bit.ly/3gFw5Zf                                  | Comunicação entre Componentes                                 |
 | https://bit.ly/2YKYerB                                  | Exemplo de uso de Hooks e Componentes com funções             |
+| https://bit.ly/3balCnC                                  | Exemplo de componentes com funções e Hooks                    |
