@@ -36,13 +36,13 @@ export default class TodoList extends React.Component {
   render() {
     return (
       <div class="todo">
+        <h2>{this.props.titulo}</h2>
         <input
           type="text"
           value={this.state.novo}
           onChange={this.handle_change.bind(this)}
         />
         <button onClick={this.adicionar.bind(this)}>Adicionar</button>
-        <h2>{this.props.titulo}</h2>
         <ul>
           {this.state.items.map((item, index) => {
             return (
