@@ -76,10 +76,19 @@ No ambiente de desenvolvimento, é disponibilizar para uso. Um exemplo é um web
 
 * Onde posso fazer deploy?
 
-| Site                                                    | Descrição                                                              |
-|---------------------------------------------------------|----------------------------------------------------------------------- |
-| [Github Pages](https://pages.github.com/)               | Hospedagem gratuita para sites estáticos                               |
-| [Heroku](https://www.heroku.com/)                       | Permite hospedagem de sites dinámicos com suporte a várias tecnologias |
+| Site                                                    | Descrição                                                                                 |
+|---------------------------------------------------------|------------------------------------------------------------------------------------------ |
+| [Github Pages](https://pages.github.com/)               | Hospedagem gratuita para sites estáticos                                                  |
+| [Netlify](https://www.netlify.com/)                     | Hospedagem gratuita para sites estáticos com deploy contínuo e integração com github      |
+| [Heroku](https://www.heroku.com/)                       | Permite hospedagem de sites dinámicos com suporte a várias tecnologias                    |
+
+* Como fazer deploy?
+
+Os links a seguir levam tutoriais que fiz, e que devem ajudar a realização do deploy nessas plataformas.
+
+  * [Netlify](#)
+  * [Github Pages](#)   
+  * [Heroku](#)
 
 ### Livros
 
