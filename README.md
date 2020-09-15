@@ -8,6 +8,9 @@ Repositório com exemplos, materiais e atividades relacionados à monitoria da d
   - [Índice](#índice)
   - [Monitoria](#monitoria)
   - [Exemplos](#exemplos)
+    - [JavaScript](#javascript)
+    - [Ajax](#ajax)
+    - [ReactJs](#reactjs)
   - [Material complementar](#material-complementar)
     - [Git](#git)
     - [Deploy](#deploy)
@@ -23,29 +26,48 @@ e atendimento remoto de segunda a quinta das 18h às 22h pela sala do google mee
 
 >Códigos dos conteúdos passados em vídeo pelo Prof. Willian Massami Watanabe
 
+### JavaScript
+
+| Link (editor de código online) | Descrição                             |
+| ------------------------------ | ------------------------------------- |
+| https://bit.ly/2PlqbBh         | Exemplo de uso do DOM e Eventos       |
+| https://bit.ly/3i9qdJ6         | Exemplo de implementação de um DIALOG |
+| https://bit.ly/39Wp98e         | Exemplo de procura de cidade          |
+| https://bit.ly/3ihnoWg         | Exemplo de tooltip                    |
+| https://bit.ly/2XHAtAt         | Exemplo de slideshow                  |
+| https://bit.ly/30Lwuoi         | Exemplo de localstorage               |
+
+<div align="right">
+    <b><a href="#índice">↥ Voltar ao Topo</a></b>
+</div>
+
+### Ajax
 
 | Link (editor de código online) | Descrição                                                    |
 | ------------------------------ | ------------------------------------------------------------ |
-| https://bit.ly/2PlqbBh         | Exemplo de uso do DOM e Eventos                              |
-| https://bit.ly/3i9qdJ6         | Exemplo de implementação de um DIALOG                        |
-| https://bit.ly/39Wp98e         | Exemplo de procura de cidade                                 |
-| https://bit.ly/3ihnoWg         | Exemplo de tooltip                                           |
-| https://bit.ly/2XHAtAt         | Exemplo de slideshow                                         |
-| https://bit.ly/30Lwuoi         | Exemplo de localstorage                                      |
 | https://bit.ly/30JPWlb         | Exemplo de AJAX com um arquivo de Texto                      |
 | https://bit.ly/3fW9lUu         | Exemplo do uso do XMLHttpRequest com a API JSON da Wikipedia |
 | https://bit.ly/30SX2Uz         | Exemplo de AJAX com conexão com a API Open Books             |
 | https://bit.ly/3h1JX0X         | Callbacks, Promises e async/await                            |
-| https://bit.ly/2YbyTHf         | Introdução React                                             |
-| https://bit.ly/3l3KdPi         | Primeira aplicação em React                                  |
-| https://bit.ly/3l9hZTB         | Script create-react-app                                      |
-| https://bit.ly/3aTH8wQ         | Propriedades em React                                        |
-| https://bit.ly/31ERIF3         | States em React                                              |
-| https://bit.ly/31JDWku         | Considerações sobre o uso de States em React                 |
-| https://bit.ly/3gFw5Zf         | Comunicação entre Componentes em React                       |
-| https://bit.ly/2YKYerB         | Exemplo de uso de Hooks e Componentes com funções em React   |
-| https://bit.ly/3balCnC         | Exemplo de componentes com funções e Hooks em React          |
-| https://bit.ly/3jw9ekD         | AJAX e hook useEffect em React                               |
+
+<div align="right">
+    <b><a href="#índice">↥ Voltar ao Topo</a></b>
+</div>
+
+### ReactJs
+
+| Link (editor de código online) | Descrição                                         |
+| ------------------------------ | ------------------------------------------------- |
+| https://bit.ly/2YbyTHf         | Introdução                                        |
+| https://bit.ly/3l3KdPi         | Primeira aplicação                                |
+| https://bit.ly/3l9hZTB         | Script create-react-app                           |
+| https://bit.ly/3aTH8wQ         | Propriedades                                      |
+| https://bit.ly/31ERIF3         | States                                            |
+| https://bit.ly/31JDWku         | Considerações sobre o uso de States               |
+| https://bit.ly/3gFw5Zf         | Comunicação entre Componentes                     |
+| https://bit.ly/2YKYerB         | Exemplo de uso de Hooks e Componentes com funções |
+| https://bit.ly/3balCnC         | Exemplo de componentes com funções e Hooks        |
+| https://bit.ly/3jw9ekD         | AJAX e hook useEffect em React                    |
 
 <div align="right">
     <b><a href="#índice">↥ Voltar ao Topo</a></b>
