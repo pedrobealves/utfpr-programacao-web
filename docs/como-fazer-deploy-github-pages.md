@@ -1,4 +1,4 @@
-## Como fazer deploy no Github Pages
+## Como fazer deploy no [Github Pages](https://pages.github.com/)
 >Observe a versão do react-scripts, o material engobla versões acima da react-scripts@0.2.0
 
 ### Passo 1: Adicione `homepage` no `package.json`
