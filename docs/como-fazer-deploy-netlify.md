@@ -1,6 +1,6 @@
 ## Como fazer deploy no [Netlify](https://www.netlify.com/)
 
-** Implantação manual no CDN da Netlify: **
+**Implantação manual no CDN da Netlify:**
 
 `` `sh
 npm install netlify-cli -g
@@ -9,7 +9,7 @@ Netlify deploy
 
 Escolha a pasta `build` para deploy
 
-** Para configurar entrega contínua: **
+**Para configurar entrega contínua:**
 
 Com esta configuração, o Netlify criará e implantará quando você enviar algo para o git ou abrir uma solicitação pull:
 
