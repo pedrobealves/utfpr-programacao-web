@@ -19,7 +19,7 @@ Para publicá-lo em [https://usuáriogithub.github.io/nomerepositório](https://
 npm install --save gh-pages
 ```
 
-Ou, alternativamente você por usar `yarn`:
+Ou, alternativamente você pode usar `yarn`:
 
 ```sh
 yarn add gh-pages
