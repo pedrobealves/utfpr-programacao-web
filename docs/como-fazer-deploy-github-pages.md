@@ -55,9 +55,9 @@ Você pode configurar um domínio personalizado com páginas GitHub adicionando 
 
 Seu arquivo CNAME deve ser assim:
 
-`` `
+```
 meuwebsite.com
-`` `
+```
 
 ### Referência
 

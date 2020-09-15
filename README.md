@@ -56,17 +56,17 @@ e atendimento remoto de segunda a quinta das 18h às 22h pela sala do google mee
 >Materiais para auxilio no desenvolvimento das atividades propostas.
 
 * **[Git e Github](#git)**
-   * [Material de estudo](#git)
+   * [Material de estudo](#material-de-estudo)
 * **[Deploy](#deploy)**
-    * [O que é deploy?](#)
-    * [Onde posso fazer deploy?](#)
-    * [Como fazer deploy](#)
+    * [O que é deploy?](#o-que-é-deploy)
+    * [Onde posso fazer deploy?](#onde-posso-fazer-deploy)
+    * [Como fazer deploy](#como-fazer-deploy)
 * **[Livros](#livros)**
-   * [Recomendações de livros](#)
+   * [Recomendações de livros](#recomendações-de-livros)
 
 ### Git
 
-* Material de estudo
+* #### Material de estudo
   * [Curso de Git e GitHub: grátis, prático e sem usar comandos no terminal](https://www.youtube.com/playlist?list=PLHz_AreHm4dm7ZULPAmadvNhH6vk9oNZA)
   * [Aprendendo Git Branching](https://learngitbranching.js.org/?locale=pt_BR)
   * [Documento oficial](https://git-scm.com/book/pt-br/v2)
@@ -75,11 +75,11 @@ e atendimento remoto de segunda a quinta das 18h às 22h pela sala do google mee
 
 ### Deploy
 
-* O que é deploy?
+* #### O que é deploy?
 
 No ambiente de desenvolvimento, é disponibilizar para uso. Um exemplo é um website que está em sua máquina, o momento em que você passa ele para um servidor de hospedagem, é chamado de deploy. Isso também válido nos casos em que disponibilizamos uma nova versão de um programa.
 
-* Onde posso fazer deploy?
+* #### Onde posso fazer deploy?
 
 | Site                                      | Descrição                                                                            |
 | ----------------------------------------- | ------------------------------------------------------------------------------------ |
@@ -87,17 +87,17 @@ No ambiente de desenvolvimento, é disponibilizar para uso. Um exemplo é um web
 | [Netlify](https://www.netlify.com/)       | Hospedagem gratuita para sites estáticos com deploy contínuo e integração com github |
 | [Heroku](https://www.heroku.com/)         | Permite hospedagem de sites dinámicos com suporte a várias tecnologias               |
 
-* Como fazer deploy
+* #### Como fazer deploy
 
 Os links a seguir levam tutoriais que fiz, e que devem ajudar a realização do deploy nessas plataformas.
 
   * [Github Pages](docs/como-fazer-deploy-github-pages.md)   
   * [Netlify](docs/como-fazer-deploy-netlify.md)
-  * [Heroku](docs/como-fazer-deploy-netlify.md)
+  * [Heroku](docs/como-fazer-deploy-heroku.md)
 
 ### Livros
 
-* Recomendações de livros
+* #### Recomendações de livros
   * [The Mythical Man-Month: Essays on Software Engineering](https://www.amazon.com/Mythical-Man-Month-Software-Engineering-Anniversary/dp/0201835959) by Frederick P. Brooks Jr.
   * [Clean Code: A Handbook of Agile Software Craftsmanship](https://www.amazon.com/Clean-Code-Handbook-Software-Craftsmanship/dp/0132350882/) by Robert C. Martin 
   * [Clean Architecture: A Craftsman's Guide to Software Structure and Design: A Craftsman's Guide to Software Structure and Design](https://www.amazon.com/Clean-Architecture-Craftsmans-Software-Structure/dp/0134494164/) by Robert C. Martin
