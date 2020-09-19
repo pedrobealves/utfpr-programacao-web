@@ -1,22 +1,20 @@
-# utfpr-programacao-web
+# utfpr-programacao-web <!-- omit in toc -->
 
 Repositório com exemplos, materiais e atividades relacionados à monitoria da disciplina de Programação Web
 
-## Índice
+## Índice <!-- omit in toc -->
 
-- [utfpr-programacao-web](#utfpr-programacao-web)
-  - [Índice](#índice)
-  - [Monitoria](#monitoria)
-  - [Exemplos](#exemplos)
-    - [JavaScript](#javascript)
-    - [Ajax](#ajax)
-    - [Reactjs](#reactjs)
-    - [Nodejs](#nodejs)
-  - [Material complementar](#material-complementar)
-    - [Git](#git)
-    - [Deploy](#deploy)
-    - [Livros](#livros)
-  - [Atividades](#atividades)
+- [Monitoria](#monitoria)
+- [Exemplos](#exemplos)
+  - [JavaScript](#javascript)
+  - [Ajax](#ajax)
+  - [Reactjs](#reactjs)
+  - [Nodejs](#nodejs)
+- [Material complementar](#material-complementar)
+  - [Git](#git)
+  - [Deploy](#deploy)
+  - [Livros](#livros)
+- [Atividades](#atividades)
 
 ## Monitoria
 
@@ -88,14 +86,14 @@ e atendimento remoto de segunda a quinta das 18h às 22h pela sala do google mee
 
 >Materiais para auxilio no desenvolvimento das atividades propostas.
 
-* **[Git e Github](#git)**
-   * [Material de estudo](#material-de-estudo)
-* **[Deploy](#deploy)**
-    * [O que é deploy?](#o-que-é-deploy)
-    * [Onde posso fazer deploy?](#onde-posso-fazer-deploy)
-    * [Como fazer deploy](#como-fazer-deploy)
-* **[Livros](#livros)**
-   * [Recomendações de livros](#recomendações-de-livros)
+- [Git e Github](#git)
+  - [Material de estudo](#material-de-estudo)
+- [Deploy](#deploy)
+  - [O que é deploy?](#o-que-é-deploy)
+  - [Onde posso fazer deploy?](#onde-posso-fazer-deploy)
+  - [Como fazer deploy](#como-fazer-deploy)
+- [Livros](#livros)
+  - [Recomendações de livros](#recomendações-de-livros)
 
 ### Git
 
