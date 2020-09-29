@@ -139,5 +139,5 @@ Os links a seguir levam tutoriais que fiz, e que devem ajudar a realização do 
 ##  Atividades
 > Atividades teóricas e/ou práticas para aplicação e desenvolvimento do aprendizado ao longo da disciplina.
 
-[HTML/CSS](./docs/html-css-atv.md)
-[Reactjs](./docs/react-atv.md)
+* [HTML/CSS](./docs/html-css-atv.md)
+* [Reactjs](./docs/react-atv.md)

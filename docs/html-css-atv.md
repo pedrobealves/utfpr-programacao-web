@@ -14,5 +14,6 @@ Pode ser hospedada no [Github Pages](./como-fazer-deploy-github-pages.md) ou [Ne
 
 Atente a questão de design responsivo ao fazer a página. Observe e aplique questões de alinhamento ilustrados na imagem abaixo:
 
-![Good UX vs Bad UX](https://cdn.dribbble.com/users/568725/screenshots/1841859/goodbadux.png)
-
+<p align="center">
+    <img src="https://cdn.dribbble.com/users/568725/screenshots/1841859/goodbadux.png" alt="Good UX vs Bad UX"width="400">
+</p>
