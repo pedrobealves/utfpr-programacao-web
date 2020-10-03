@@ -74,9 +74,10 @@ e atendimento remoto de segunda a quinta das 18h às 22h pela sala do google mee
 
 ### Nodejs
 
-| Link (editor de código online) | Descrição  |
-| ------------------------------ | ---------- |
-| https://bit.ly/3cduNUI         | Introdução |
+| Link (editor de código online) | Descrição                           |
+| ------------------------------ | ----------------------------------- |
+| https://bit.ly/3cduNUI         | Introdução                          |
+| https://bit.ly/3jplNi4         | Módulo HTTP e o método createServer |
 
 <div align="right">
     <b><a href="#índice">↥ Voltar ao Topo</a></b>
