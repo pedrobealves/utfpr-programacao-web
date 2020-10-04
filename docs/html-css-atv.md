@@ -17,3 +17,9 @@ Atente a questão de design responsivo ao fazer a página. Observe e aplique que
 <p align="center">
     <img src="https://cdn.dribbble.com/users/568725/screenshots/1841859/goodbadux.png" alt="Good UX vs Bad UX"width="400">
 </p>
+
+Uma referencia para responsividade:
+
+<p align="center">
+    <img src="https://miro.medium.com/max/2400/0*GtaTN7tRlkKnxxCA.jpg" alt="UI Design"width="100%">
+</p>
