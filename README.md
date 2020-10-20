@@ -10,6 +10,7 @@ Repositório com exemplos, materiais e atividades relacionados à monitoria da d
   - [Ajax](#ajax)
   - [Reactjs](#reactjs)
   - [Nodejs](#nodejs)
+  - [ExpressJs](#expressjs)
 - [Material complementar](#material-complementar)
   - [Git](#git)
   - [Deploy](#deploy)
@@ -74,10 +75,20 @@ e atendimento remoto de segunda a quinta das 18h às 22h pela sala do google mee
 
 ### Nodejs
 
-| Link (editor de código online) | Descrição                           |
-| ------------------------------ | ----------------------------------- |
-| https://bit.ly/3cduNUI         | Introdução                          |
-| https://bit.ly/3jplNi4         | Módulo HTTP e o método createServer |
+| Link (editor de código online) | Descrição                                        |
+| ------------------------------ | ------------------------------------------------ |
+| https://bit.ly/3cduNUI         | Introdução                                       |
+| https://bit.ly/3jplNi4         | Módulo HTTP e o método createServer              |
+| https://bit.ly/3dHQv41         | Entendendo a chamada createServer do módulo HTTP |
+
+### ExpressJs
+
+| Link (editor de código online) | Descrição                         |
+| ------------------------------ | --------------------------------- |
+| https://bit.ly/3kfYpEn         | Introdução e regras de roteamento |
+| https://bit.ly/3ji2Tc9         | Templates                         |
+| https://bit.ly/2HkJrhT         | Gerando o primeiro projeto        |
+| https://bit.ly/37vakut         | Express Generator                 |
 
 <div align="right">
     <b><a href="#índice">↥ Voltar ao Topo</a></b>
