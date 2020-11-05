@@ -136,7 +136,7 @@ Os links a seguir levam tutoriais que fiz, e que devem ajudar a realização do 
 
   1. [Integração com back-end](docs/integração-com-backend.md) 
   2. [Preparação para deploy](docs/preparação-deploy.md) 
-  3. Como fazer na seguintes plataformas
+  3. Como fazer nas seguintes plataformas
      * [Github Pages](docs/como-fazer-deploy-github-pages.md)   
      * [Netlify](docs/como-fazer-deploy-netlify.md)
      * [Heroku](docs/como-fazer-deploy-heroku.md)
