@@ -134,6 +134,7 @@ No ambiente de desenvolvimento, é disponibilizar para uso. Um exemplo é um web
 
 Os links a seguir levam tutoriais que fiz, e que devem ajudar a realização do deploy nessas plataformas.
 
+  * [Integração com back-end](docs/integração-com-backend.md)   
   * [Github Pages](docs/como-fazer-deploy-github-pages.md)   
   * [Netlify](docs/como-fazer-deploy-netlify.md)
   * [Heroku](docs/como-fazer-deploy-heroku.md)
