@@ -20,7 +20,7 @@ Repositório com exemplos, materiais e atividades relacionados à monitoria da d
 ## Monitoria
 
 Dúvidas podem ser mandadas por whatsapp (43)99182-7934 ou ao email pedrobealves@gmail.com
-e atendimento remoto de segunda a quinta das 18h às 22h pela sala do google meet https://meet.google.com/kja-qikx-oue
+e atendimento remoto de segunda a quinta das 18h às 22h pela sala do google meet
 
 ## Exemplos
 
