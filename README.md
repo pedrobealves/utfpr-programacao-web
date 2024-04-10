@@ -19,9 +19,6 @@ Repositório com exemplos, materiais e atividades relacionados à monitoria da d
 
 ## Monitoria
 
-Dúvidas podem ser mandadas por whatsapp (43)99182-7934 ou ao email pedrobealves@gmail.com
-e atendimento remoto de segunda a quinta das 18h às 22h pela sala do google meet
-
 ## Exemplos
 
 >Códigos dos conteúdos passados em vídeo pelo Prof. Willian Massami Watanabe
@@ -140,16 +137,6 @@ Os links a seguir levam tutoriais que fiz, e que devem ajudar a realização do 
      * [Github Pages](docs/como-fazer-deploy-github-pages.md)   
      * [Netlify](docs/como-fazer-deploy-netlify.md)
      * [Heroku](docs/como-fazer-deploy-heroku.md)
-
-### Livros
-
-* #### Recomendações de livros
-  * [The Mythical Man-Month: Essays on Software Engineering](https://www.amazon.com/Mythical-Man-Month-Software-Engineering-Anniversary/dp/0201835959) by Frederick P. Brooks Jr.
-  * [Clean Code: A Handbook of Agile Software Craftsmanship](https://www.amazon.com/Clean-Code-Handbook-Software-Craftsmanship/dp/0132350882/) by Robert C. Martin 
-  * [Clean Architecture: A Craftsman's Guide to Software Structure and Design: A Craftsman's Guide to Software Structure and Design](https://www.amazon.com/Clean-Architecture-Craftsmans-Software-Structure/dp/0134494164/) by Robert C. Martin
-  * [The Pragmatic Pro: grammer: From Journeyman to Master](https://www.amazon.com/Pragmatic-Programmer-Journeyman-Master/dp/020161622X/) by Andrew Hunt, David Thomas
-  * [Introduction to Algorithms](https://www.amazon.com.br/Introduction-Algorithms-English-Thomas-Cormen-ebook/dp/B08FH8N996/) by por Thomas H. Cormen, Charles E. Leiserson, Ronald L. Rivest, Clifford Stein
-  * [Refactoring: Improving the Design of Existing Code](https://www.amazon.com/Refactoring-Improving-Existing-Addison-Wesley-Signature/dp/0134757599/) by Martin Fowler
 
 ##  Atividades
 > Atividades teóricas e/ou práticas para aplicação e desenvolvimento do aprendizado ao longo da disciplina.
